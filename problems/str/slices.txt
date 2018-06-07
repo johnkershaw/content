@@ -6,7 +6,7 @@ Statement:
 
 <p>In the first line, print the third character of this string.
 
-<p>In the second line, print the second to last character of this string.
+<p>In the second line, print the second from last character of this string.
 
 <p>In the third line, print the first five characters of this string.
 
